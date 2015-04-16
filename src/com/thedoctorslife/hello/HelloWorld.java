@@ -4,13 +4,13 @@
 // package
 package com.thedoctorslife.hello;
 
-import com.thedoctorslife.hello.Stuff;
+import com.thedoctorslife.hello.StuffUtils;
 
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		Stuff.hello();
-		Stuff.cheese();
-		Stuff.end();
+		StuffUtils.hello();
+		StuffUtils.cheese();
+		StuffUtils.end();
 	}
 }

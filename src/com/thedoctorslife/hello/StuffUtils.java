@@ -6,7 +6,7 @@
 package com.thedoctorslife.hello;
 
 // Define the class
-public class Stuff {
+public class StuffUtils {
 
 	// Define printHello and execute
 	public static void hello() {
